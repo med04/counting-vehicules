@@ -2,7 +2,8 @@
 Vehicle Counting Using Inference and Supervision
 
 This project implements a robust vehicle counting system using advanced computer vision techniques. Leveraging object detection, keypoint matching, and polygon zone filtering, the system can accurately count vehicles in video frames. The project integrates OpenCV, the Supervision library, and a YOLOv8 model from Roboflow, along with ByteTrack for object tracking.
-Introduction
+
+**Introduction**
 
 In traffic management and urban planning, accurately counting vehicles can provide critical insights for decision-making. This project addresses this need by developing a reliable vehicle counting solution that can handle various challenges, such as camera movement and perspective changes. By combining object detection with keypoint-based polygon stabilization and object tracking, this project offers a flexible and scalable approach to vehicle counting that can be applied to different scenarios, including highways, city streets, and parking lots.
 Features
